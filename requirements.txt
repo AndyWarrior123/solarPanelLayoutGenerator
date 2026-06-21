@@ -15,6 +15,10 @@ segmentation-models-pytorch>=0.3.3
 
 albumentations>=1.4.0
 
+# CAPTURE
+
+pyautogui>=0.9.54
+
 # UTILITIES
 
 scipy>=1.13.0

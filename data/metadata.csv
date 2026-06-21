@@ -1,0 +1,3 @@
+image_filename,mask_filename,num_panels,roof_type,angle,num_strings,connection_type
+house_001_roof.jpg,house_001_mask.png,13,tile,22,1,single_phase
+house_002_roof.jpg,house_002_mask.png,18,tin,22,2,single_phase
